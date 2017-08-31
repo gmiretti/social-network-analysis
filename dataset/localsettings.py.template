@@ -1,0 +1,14 @@
+AUTH_DATA = [
+    # Mine
+    dict(consumer_key = 'xxxxxxxxxxxxxxxx',
+    consumer_secret = 'yyyyyyyyyyyyy',
+    access_token = 'zzzzzzzzzz',
+    access_token_secret = 'wwwwwwwwwwwww'),
+
+    # Others
+    dict(consumer_key = 'xxxxxxxxxxxxxxxxxxx',
+    consumer_secret = 'yyyyyyyyyyyyyyyyy',
+    access_token = 'zzzzzzzzzzzzzz',
+    access_token_secret = 'wwwwwwwwwwwwwwww'),
+
+]
