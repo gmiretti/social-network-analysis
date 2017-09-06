@@ -1,0 +1,5 @@
+min_degree: 1
+output:
+- cache-predictions
+- recall-precision
+- roc

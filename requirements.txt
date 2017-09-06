@@ -1,0 +1,6 @@
+tweepy==3.5.0
+requests-oauthlib==0.8.0
+oauthlib==2.0.2
+smokesignal==0.7
+python-louvain
+git+https://github.com/rafguns/linkpred.git@py36
